@@ -22,3 +22,16 @@ D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
 D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
 D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
 D:\BioMetrix\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.Cache
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe.config
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.exe
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\bin\Debug\BioMetrixCore.pdb
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csprojAssemblyReference.cache
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.ResolveComReference.cache
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.DataEmpty.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Master.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.Properties.Resources.resources
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.GenerateResource.cache
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.csproj.CoreCompileInputs.cache
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.exe
+C:\Users\Geoffrey\Documents\Visual Studio 2019\Systems\C-Sharp-FingurePring-Scanner\BioMatrix\BioMetrixCore\obj\Debug\BioMetrixCore.pdb
